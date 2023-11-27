@@ -11,9 +11,9 @@ presskit_download_link                    : # https://emilbaehr.com             
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : # Write a short tagline for your app.
+app_name                                  : weltare.ai                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : freemium                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Envie de lancer votre startup mais ne savez pas par où commencer ? WELTARE Strategies vous guide à votre propre rythme vers le succès. # Write a short tagline for your app.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -24,7 +24,7 @@ your_name                                 : WELTARE Strategies # Emil Baehr
 your_link                                 : https://www.linkedin.com/company/weltare-strategies/?viewAsMember=true # https://emilbaehr.com                     
 your_city                                 : Paris # Copenhagen                                
 email_address                             : abdoulaye.doucoure@dauphine.eu # emil.baehr@gmail.com
-facebook_username                         :                                           
+facebook_username                         : https://www.facebook.com/WELTAREStrategies/                                          
 instagram_username                        : weltare_strategies # ebaehr
 twitter_username                          : WELTAREmanager # ebaehr
 github_username                           : weltare # emilbaehr
