@@ -13,8 +13,7 @@ presskit_download_link                    : https://www.linkedin.com/company/wel
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : weltare.ai                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 200 €                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Convertissez les abonnés en investisseurs :
-Dirigez le trafic des réseaux sociaux vers le lien de votre choix, que ce soit votre site web, votre boutique en ligne ou votre dernier article de blog. # Envie de lancer votre startup mais ne savez pas par où commencer ? WELTARE Strategies vous guide à votre propre rythme vers le succès. # Write a short tagline for your app.
+app_description                           : Convertissez les abonnés en investisseurs : Dirigez le trafic des réseaux sociaux vers le lien de votre choix, que ce soit votre site web, votre boutique en ligne ou votre dernier article de blog. # Envie de lancer votre startup mais ne savez pas par où commencer ? WELTARE Strategies vous guide à votre propre rythme vers le succès. # Write a short tagline for your app.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
