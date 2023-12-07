@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Guide gratuit du financement
     description                           : Accédez à notre checklist simplifiée pour maximiser rapidemment votre processus de levée de fonds.
-    fontawesome_icon_name                 : fa-list-ol
+    fontawesome_icon_name                 : list-ol
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
