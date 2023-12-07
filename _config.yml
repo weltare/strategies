@@ -35,9 +35,9 @@ mastodon_link                             : # https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Guide gratuit du financement
+    description                           : Accédez à notre checklist simplifiée pour maximiser rapidemment votre processus de levée de fonds.
+    fontawesome_icon_name                 : fa-list-ol
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
