@@ -11,7 +11,7 @@ presskit_download_link                    : https://www.paypal.com/webapps/billi
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.jpg #png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : WELTARE Strategies                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Chatbot e-commerce                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 384 € par mois (valeur 1900 €)                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Découvrez comment sécuriser un investissement avec notre accélérateur en ligne, votre chatbot pour naviguer dans le paysage des financements. #Convertissez vos abonnés en investisseurs en les dirigeant vers les liens pertinents (site, boutique en ligne, articles...) # Write a short tagline for your app.
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
