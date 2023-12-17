@@ -12,7 +12,7 @@ presskit_download_link                    : https://www.paypal.com/webapps/billi
 
 app_icon                                  : assets/appicon.jpg #png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Chatbot e-commerce                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : 384 € par mois (valeur 1900 €)                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : 384 € par mois (économisez 80% sur une valeur de 1900 €)                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Boostez vos ventes avec un chatbot e-commerce (Information produit, Commande & SAV, Gestion du compte client, Avis & feedbacks, Aide aux vendeurs...)  #Convertissez vos abonnés en investisseurs en les dirigeant vers les liens pertinents (site, boutique en ligne, articles...) # Write a short tagline for your app.
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
