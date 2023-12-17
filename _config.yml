@@ -39,9 +39,9 @@ features                                  :
     description                           : Le seul assistant virtuel de relation client simple d’utilisation qui permet à vos clients de trouver rapidement une réponse à leur question, une page spécifique ou un produit.
     fontawesome_icon_name                 : robot
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Pourquoi ?
+    description                           : Le but de notre chatbot est de permettre de profiter de la révolution de l'Intelligence Artificiele pour radicalement fluidifier le parcours de vos clients sur vos réseaux sociaux afin d'améliorer votre stratégie de conversion.
+    fontawesome_icon_name                 : comments-dollar
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
