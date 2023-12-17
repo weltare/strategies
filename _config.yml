@@ -49,9 +49,9 @@ features                                  :
 
   - title                                 : Qui ?
     description                           : Ce logiciel s'adresse aux entrepreneurs, tels que les spécialistes du financement participatif par exemple, dont les informations se trouvent dispersées sur différentes plateformes.
-    fontawesome_icon_name                 : building
+    fontawesome_icon_name                 : building-user
 
-  - title                                 : Easy to Tweak
+  - title                                 : Comment ?
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : adjust
   
