@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Combien ?
     description                           : Obtenez en moyenne un taux de conversion 10 fois supérieur, 75% de taux d'automatisation, 30% réduction des coûts d'exploitation, 25% de croissance de la satisfaction client et réduisez les temps d'attente des clients jusqu'à 90%.
-    fontawesome_icon_name                 : arrow-trend-up
+    fontawesome_icon_name                 : ruler-combined
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
