@@ -47,9 +47,9 @@ features                                  :
     description                           : Obtenez en moyenne un taux de conversion 10 fois supérieur, 75% de taux d'automatisation, 30% réduction des coûts d'exploitation, 25% de croissance de la satisfaction client et réduisez les temps d'attente des clients jusqu'à 90%.
     fontawesome_icon_name                 : ruler-combined
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Qui ?
+    description                           : Ce logiciel s'adresse aux entrepreneurs, tels que les spécialistes du financement participatif par exemple, dont les utilisateurs finaux se trouvent sur les réseaux sociaux.
+    fontawesome_icon_name                 : building
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
