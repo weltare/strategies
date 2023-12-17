@@ -36,8 +36,8 @@ mastodon_link                             : # https://mastodon.social/@ebaehr
 features                                  :
 
   - title                                 : Quoi ?
-    description                           : Un assistant virtuel de relation client, accessible et simple d’utilisation qui permet à vos clients de trouver rapidement une réponse à leur question, une page spécifique ou un produit.
-    fontawesome_icon_name                 : list-ol
+    description                           : Le seul assistant virtuel de relation client simple d’utilisation qui permet à vos clients de trouver rapidement une réponse à leur question, une page spécifique ou un produit.
+    fontawesome_icon_name                 : robot
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
