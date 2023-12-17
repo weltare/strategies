@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Comment ?
     description                           : Etape par étape, WELTARE Strategies crée avec vous, votre chatbot, votre boutique en ligne, en rédige les fiches produit, en optimise les contenu et référencement et assure la maintenance de votre solution clé-en-main.
-    fontawesome_icon_name                 : hands-holding-child
+    fontawesome_icon_name                 : tasks
   
   - title                                 : Feature List
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
