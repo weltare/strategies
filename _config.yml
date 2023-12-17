@@ -43,9 +43,9 @@ features                                  :
     description                           : Le but de notre chatbot est de permettre de profiter de la révolution de l'Intelligence Artificiele pour radicalement fluidifier le parcours de vos clients sur vos réseaux sociaux afin d'améliorer votre stratégie de conversion.
     fontawesome_icon_name                 : comments-dollar
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Combien ?
+    description                           : Obtenez en moyenne un taux de conversion 10 fois supérieur, 75% de taux d'automatisation, 30% réduction des coûts d'exploitation, 25% de croissance de la satisfaction client et réduisez les temps d'attente des clients jusqu'à 90%.
+    fontawesome_icon_name                 : arrow-trend-up
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
