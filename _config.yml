@@ -48,12 +48,12 @@ features                                  :
     fontawesome_icon_name                 : ruler-combined
 
   - title                                 : Qui ?
-    description                           : Ce logiciel s'adresse aux entrepreneurs, tels que les spécialistes du financement participatif par exemple, dont les informations se trouvent dispersées sur différentes plateformes.
+    description                           : La solution WELTARE s'adresse aux entrepreneurs, tels que les spécialistes du financement participatif par exemple, dont les informations se trouvent dispersées sur différentes plateformes.
     fontawesome_icon_name                 : building-user
 
   - title                                 : Comment ?
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+    description                           : WELTARE Strategies crée votre chatbot, votre boutique en ligne, en rédige les fiches produit, en optimise les contenu et référencement et assure la maintenance de votre solution clé-en-main.
+    fontawesome_icon_name                 : arrows-to-circle
   
   - title                                 : Feature List
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
