@@ -49,11 +49,11 @@ features                                  :
 
   - title                                 : Qui ?
     description                           : La solution WELTARE s'adresse aux entrepreneurs, tels que les spécialistes du financement participatif par exemple, dont les informations se trouvent dispersées sur différentes plateformes.
-    fontawesome_icon_name                 : building-user
+    fontawesome_icon_name                 : user-tie
 
   - title                                 : Comment ?
-    description                           : WELTARE Strategies crée votre chatbot, votre boutique en ligne, en rédige les fiches produit, en optimise les contenu et référencement et assure la maintenance de votre solution clé-en-main.
-    fontawesome_icon_name                 : arrows-to-circle
+    description                           : Etape par étape, WELTARE Strategies crée avec vous, votre chatbot, votre boutique en ligne, en rédige les fiches produit, en optimise les contenu et référencement et assure la maintenance de votre solution clé-en-main.
+    fontawesome_icon_name                 : list-check
   
   - title                                 : Feature List
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
