@@ -12,7 +12,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 <br>
 
-### `[Offre Premium](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-34A125616E760572GMV6MH4Y)`
+### [`Offre Premium`](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-34A125616E760572GMV6MH4Y)
 # **Chatbot E-commerce**
 Offrez une expérience d'achat inégalée grâce à notre chatbot expert !
 
