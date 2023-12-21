@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Privacy Policy
+title: Données Personnelles
 include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+21 Décembre 2023
 
 # Privacy Policy
 Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
