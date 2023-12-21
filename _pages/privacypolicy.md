@@ -9,7 +9,7 @@ include_in_header: false
 
 ### Préambule
 
-La protection des données à caractère personnel est une priorité absolue chez [le Site]. Dans le cadre de notre engagement envers la transparence et le respect de votre vie privée, nous collectons et traitons les informations de manière responsable, conformément au Règlement Général sur la Protection des Données (RGPD).
+La protection des données à caractère personnel est une priorité absolue chez WELTARE Strategies. Dans le cadre de notre engagement envers la transparence et le respect de votre vie privée, nous collectons et traitons les informations de manière responsable, conformément au Règlement Général sur la Protection des Données (RGPD).
 
 ### Rappel des Notions Clés
 
@@ -39,7 +39,7 @@ Nous pouvons obtenir des données à caractère personnel auprès de tiers, conf
 
 #### 2. Informations que Vous Nous Fournissez
 
-Lorsque vous interagissez avec [le Site], vous pouvez nous fournir des informations telles que votre nom, votre adresse e-mail ou d'autres données similaires.
+Lorsque vous interagissez avec WELTARE Strategies, vous pouvez nous fournir des informations telles que votre nom, votre adresse e-mail ou d'autres données similaires.
 
 ### Quelles Informations Collectons-nous et Comment ?
 
