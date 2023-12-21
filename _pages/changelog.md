@@ -89,7 +89,84 @@ Nous contacter pour plus d'informations sur nos différentes options.
 
 <br>
 
-## Chatbot FAQ
+## Chatbot Communication externe
+Nous contacter pour plus d'informations.
+
+#### Cas d'usage
+Nous contacter pour plus d'informations sur les cas d'usage.
+
+#### Avantage
+Nous contacter pour plus d'informations sur les autres solutions que nous vous proposons.
+
+<br>
+
+## Optimisation Complète de Votre Page Entreprise LinkedIn
+Nous contacter pour plus d'informations.
+
+#### Cas d'usage
+Nous contacter pour plus d'informations sur les cas d'usage.
+
+#### Avantage
+Nous contacter pour plus d'informations sur les autres solutions que nous vous proposons.
+
+<br>
+
+## Liens multiples vers tous vos profils de médias sociaux et liens importants
+Nous contacter pour plus d'informations.
+
+#### Cas d'usage
+Nous contacter pour plus d'informations sur les cas d'usage.
+
+#### Avantage
+Nous contacter pour plus d'informations sur les autres solutions que nous vous proposons.
+
+<br>
+
+## Recommandation Professionnelle LinkedIn
+Nous contacter pour plus d'informations.
+
+#### Cas d'usage
+Nous contacter pour plus d'informations sur les cas d'usage.
+
+#### Avantage
+Nous contacter pour plus d'informations sur les autres solutions que nous vous proposons.
+
+<br>
+
+## Évaluation d'Impact Durable
+Nous contacter pour plus d'informations.
+
+#### Cas d'usage
+Nous contacter pour plus d'informations sur les cas d'usage.
+
+#### Avantage
+Nous contacter pour plus d'informations sur les autres solutions que nous vous proposons.
+
+<br>
+
+## Pages Produits
+Nous contacter pour plus d'informations.
+
+#### Cas d'usage
+Nous contacter pour plus d'informations sur les cas d'usage.
+
+#### Avantage
+Nous contacter pour plus d'informations sur les autres solutions que nous vous proposons.
+
+<br>
+
+## Intégration Marketplace B2B WELTARE
+Nous contacter pour plus d'informations.
+
+#### Cas d'usage
+Nous contacter pour plus d'informations sur les cas d'usage.
+
+#### Avantage
+Nous contacter pour plus d'informations sur les autres solutions que nous vous proposons.
+
+<br>
+
+## Paiements en Ligne Rapides
 Nous contacter pour plus d'informations.
 
 #### Cas d'usage
