@@ -13,7 +13,7 @@ presskit_download_link                    : https://open.spotify.com/episode/7Et
 app_icon                                  : assets/appicon.jpg #png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : WELTARE Strategies                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Votre Chatbot e-commerce clé en main à 384 € par mois                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Boostez vos ventes avec un chatbot e-commerce (un lien unique qui permet d'obtenir toutes les informations pour acheter vos services 24/7 depuis vos réseaux sociaux)  #Convertissez vos abonnés en investisseurs en les dirigeant vers les liens pertinents (site, boutique en ligne, articles...) # Write a short tagline for your app.
+app_description                           : Boostez vos ventes avec un chatbot e-commerce (un lien unique qui permet de vendre 24/7 à vos abonnés en répondant à leurs questions sur vos services)  #Convertissez vos abonnés en investisseurs en les dirigeant vers les liens pertinents (site, boutique en ligne, articles...) # Write a short tagline for your app.
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -36,7 +36,7 @@ mastodon_link                             : # https://mastodon.social/@ebaehr
 features                                  :
 
   - title                                 : Quoi ?
-    description                           : Le seul assistant virtuel de relation client simple d’utilisation qui permet à vos clients de trouver rapidement une réponse à leur question, une page spécifique ou un produit.
+    description                           : Le seul assistant virtuel de relation client simple d’utilisation qui permet à vos clients de trouver rapidement une réponse à leur question, une page spécifique ou un produit (Information produit, Commande & SAV, Gestion du compte client, Avis & feedbacks, Aide aux vendeurs...).
     fontawesome_icon_name                 : robot
     
   - title                                 : Pourquoi ?
@@ -44,11 +44,11 @@ features                                  :
     fontawesome_icon_name                 : comments-dollar
 
   - title                                 : Combien ?
-    description                           : Pour 20% du prix, obtenez en moyenne un taux de conversion 10 fois supérieur, 75% de taux d'automatisation, 30% réduction des coûts d'exploitation, 25% de croissance de la satisfaction client et réduisez les temps d'attente des clients jusqu'à 90%.
+    description                           : Pour 20% du prix hors abonnement, obtenez en moyenne un taux de conversion 10 fois supérieur, 75% de taux d'automatisation, 30% réduction des coûts d'exploitation, 25% de croissance de la satisfaction client et réduisez les temps d'attente des clients jusqu'à 90%.
     fontawesome_icon_name                 : ruler-combined
 
   - title                                 : Qui ?
-    description                           : La solution WELTARE s'adresse aux entrepreneurs, tels que les spécialistes du financement participatif par exemple, dont les informations se trouvent dispersées sur différentes plateformes.
+    description                           : La solution WELTARE s'adresse aux entrepreneurs B2B, tels que les spécialistes du financement participatif par exemple, dont les informations se trouvent dispersées sur différentes plateformes.
     fontawesome_icon_name                 : user-tie
 
   - title                                 : Comment ?
