@@ -13,7 +13,7 @@ presskit_download_link                    : https://github.com/weltare/strategie
 app_icon                                  : assets/appicon.jpg #png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : WELTARE Strategies                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Votre Chatbot e-commerce clé en main à 384 € par mois                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Boostez vos ventes avec un chatbot e-commerce (un lien unique qui permet de vendre 24/7 à vos abonnés en répondant à leurs questions sur vos services)  #Convertissez vos abonnés en investisseurs en les dirigeant vers les liens pertinents (site, boutique en ligne, articles...) # Write a short tagline for your app.
+app_description                           : Boostez vos ventes avec un chatbot e-commerce  #Convertissez vos abonnés en investisseurs en les dirigeant vers les liens pertinents (site, boutique en ligne, articles...) # Write a short tagline for your app.
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : robot
     
   - title                                 : Pourquoi ?
-    description                           : Le but de notre chatbot est de permettre de profiter de la révolution de l'Intelligence Artificiele pour radicalement fluidifier le parcours de vos clients sur vos réseaux sociaux afin d'améliorer votre stratégie de conversion.
+    description                           : Le but de notre chatbot est de permettre de profiter de la révolution de l'Intelligence Artificielle pour radicalement fluidifier le parcours de vos clients sur vos réseaux sociaux afin d'améliorer votre stratégie de conversion.
     fontawesome_icon_name                 : comments-dollar
 
   - title                                 : Combien ?
@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : user-tie
 
   - title                                 : Comment ?
-    description                           : Etape par étape, WELTARE Strategies crée avec vous, votre chatbot, votre boutique en ligne, en rédige les fiches produit, en optimise les contenu et référencement et assure la maintenance de votre solution clé-en-main.
+    description                           : Etape par étape, nous créons avec vous, votre chatbot, une boutique en ligne, en rédigeons les fiches produit, optimisons les contenu et référencement, assurons la maintenance clé-en-main et vous fournissons un lien unique qui permet de vendre 24/7 à vos abonnés en répondant à leurs questions sur vos services.
     fontawesome_icon_name                 : tasks
   
   - title                                 : Quand ?
