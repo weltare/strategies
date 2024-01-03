@@ -73,4 +73,4 @@ You can also choose not to include these pages, by simple deleting the `privacyp
 ## Feedback
 If you have feedback regarding bugs or improvements, open an issue, @ me on Twitter or write me an email. You can find my contact info on my website.
 
-[Partners Referral Program Company Presentation.pdf](https://github.com/weltare/strategies/files/13814797/Partners.Referral.Program.Company.Presentation.pdf)
+[Partners Referral Program Company Presentation.pdf](https://github.com/weltare/strategies/files/13824327/Partners.Referral.Program.Company.Presentation.pdf)
