@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notre offre
+title: Offre
 include_in_header: true
 ---
 
