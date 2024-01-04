@@ -78,14 +78,15 @@ ________
 ### `Offre sur mesure`
 # **Création d'assistants conversationnels à la demande**
 Nous pouvons créer un chatbot personnalisé pour votre cas d'utilisation spécifique. Utilisez le tableau ci-dessous pour obtenir des estimations approximatives. Le prix final dépendra de la taille et de l'échelle de votre chatbot.
+Nous contacter pour plus d'informations sur nos différentes offres.
 
 <br>
 
-## **Nos options à la carte**
-Nous contacter pour plus d'informations.
-
-#### Options à la carte
-Nous contacter pour plus d'informations sur nos différentes options.
+## **NLP Engineering**
+Nous contacter pour plus de personnalisation de nos différentes options.
+Un plan sur mesure, une assistance prioritaire et un spécialiste dédié à la création de bots
+Gestionnaire de compte personnel
+Services de création de bots
 
 <br>
 
