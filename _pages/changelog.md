@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Offre
+title: Tarifs
 include_in_header: true
 ---
 
