@@ -15,7 +15,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | Fonctionnalité           | Offre Premium                 | Offre sur Mesure               |
 |-------------------------|-------------------------------|--------------------------------:|
 | [Chatbot E-commerce](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#chatbot-e-commerce)       | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [3 449 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-89Y64015VK898734PMWMIBXA) |
-| Optimisation LinkedIn    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
+| [Optimisation LinkedIn](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#optimisation-compl%C3%A8te-de-votre-page-entreprise-linkedin-1)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
 | Liens Réseaux Sociaux*    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 38 €                         |
 | Évaluation ESG           | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 2 739 €                         |
 | Paiements en Ligne       | 20 %                         | 20 %                         |
