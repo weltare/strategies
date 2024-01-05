@@ -98,10 +98,8 @@ Nous contacter pour plus d'informations sur nos différentes offres.
 <br>
 
 ## **NLP Engineering**
-Nous contacter pour plus de personnalisation de nos différentes options.
 Un plan sur mesure, une assistance prioritaire et un spécialiste dédié à la création de bots
-Gestionnaire de compte personnel
-Services de création de bots
+Nous contacter pour plus de personnalisation de nos différentes options.
 
 <br>
 
