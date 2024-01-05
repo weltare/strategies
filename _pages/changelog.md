@@ -17,7 +17,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | [Chatbot E-commerce](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#chatbot-e-commerce)       | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [3 449 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-89Y64015VK898734PMWMIBXA) |
 | [Optimisation LinkedIn](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#optimisation-compl%C3%A8te-de-votre-page-entreprise-linkedin-1)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
 | [Mise à jour des Liens](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#liens-multiples-vers-tous-vos-profils-de-m%C3%A9dias-sociaux-et-liens-importants)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [38 €](https://py.pl/frMKn)                         |
-| [Évaluation ESG](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#%C3%A9valuation-dimpact-durable--une-communication-durable-renforc%C3%A9e-pour-engager-vos-clients)           | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 2 739 €                         |
+| [Évaluation ESG](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#%C3%A9valuation-dimpact-durable--une-communication-durable-renforc%C3%A9e-pour-engager-vos-clients)           | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [2 739 €](https://py.pl/VkjieaAABv)                         |
 | Paiements en Ligne       | 20 %                         | 20 %                         |
 | UX Conversationnelle        | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                     | Inclus |
 | NLP Engineering          | 100 €/ heure                     | 200 €/ heure |
@@ -163,7 +163,7 @@ La valorisation professionnelle sur LinkedIn change la donne ! Vos profils bén�
 
 <br>
 
-## Évaluation d'Impact Durable : une Communication Durable Renforcée pour Engager Vos Clients
+## [`Évaluation d'Impact Durable : une Communication Durable Renforcée pour Engager Vos Clients`](https://py.pl/VkjieaAABv)
 Cette évolution crée un lien crucial entre une communication passée limitée et un avenir où l'engagement durable est central. Elle offre à votre entreprise la possibilité de forger un dialogue authentique et de renforcer sa réputation en tant qu'acteur engagé envers la durabilité. Cette communication devient un catalyseur pour des relations durables et fructueuses avec votre clientèle.
 
 La communication d'impact durable envers vos clients est essentielle pour instaurer des relations solides et propices à l'action en faveur d'un avenir plus responsable. Elle vous positionne en tant que leader dans la promotion de pratiques durables, transformant vos clients en partenaires engagés pour une croissance commerciale durable.
