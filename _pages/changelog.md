@@ -14,7 +14,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 | Fonctionnalité           | Offre Premium                 | Offre sur Mesure               |
 |-------------------------|-------------------------------|--------------------------------:|
-| Chatbot E-commerce       | Inclus                         | 3 449 € |
+| Chatbot E-commerce       | Inclus                         | [3 449 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-89Y64015VK898734PMWMIBXA) |
 | Optimisation LinkedIn    | Inclus                         | 384 €                         |
 | Liens Réseaux Sociaux*    | Inclus                         | 38 €                         |
 | Évaluation ESG           | Inclus                         | 2 739 €                         |
