@@ -16,7 +16,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 |-------------------------|-------------------------------|--------------------------------:|
 | [Chatbot E-commerce](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#chatbot-e-commerce)       | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [3 449 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-89Y64015VK898734PMWMIBXA) |
 | [Optimisation LinkedIn](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#optimisation-compl%C3%A8te-de-votre-page-entreprise-linkedin-1)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
-| [Mise à jour des Liens](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#liens-multiples-vers-tous-vos-profils-de-m%C3%A9dias-sociaux-et-liens-importants)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 38 €                         |
+| [Mise à jour des Liens](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#liens-multiples-vers-tous-vos-profils-de-m%C3%A9dias-sociaux-et-liens-importants)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [38 €](https://py.pl/frMKn)                         |
 | Évaluation ESG           | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 2 739 €                         |
 | Paiements en Ligne       | 20 %                         | 20 %                         |
 | UX Conversationnelle        | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                     | Inclus |
@@ -136,7 +136,7 @@ L'optimisation intégrale de votre Page LinkedIn Entreprise change la donne ! D�
 
 <br>
 
-## Liens multiples vers tous vos profils de médias sociaux et liens importants
+## [`Liens multiples vers tous vos profils de médias sociaux et liens importants`](https://py.pl/frMKn)
 Cette centralisation des liens crée un lien direct entre un passé complexe et un avenir harmonieux. Elle simplifie l'accès à vos profils de médias sociaux, favorisant une interaction fluide et offrant une expérience utilisateur améliorée. Notre solution forge une connexion directe entre votre audience et vos diverses plateformes, facilitant leur engagement.
 
 Notre solution de centralisation stratégique des liens vers tous vos profils de médias sociaux et liens importants élargit l'accessibilité et simplifie l'interaction, offrant ainsi à votre entreprise une présence en ligne harmonieuse et facilement accessible à votre audience cible.
