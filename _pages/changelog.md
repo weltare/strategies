@@ -13,7 +13,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 <br>
 
 | Fonctionnalité           | Offre Premium                 | Offre sur Mesure               |
-|-------------------------|-------------------------------|--------------------------------|
+|-------------------------|-------------------------------|--------------------------------:|
 | Chatbot E-commerce       | Inclus                         | 3 449 € |
 | Optimisation LinkedIn    | Inclus                         | 384 €                         |
 | Liens Réseaux Sociaux*    | Inclus                         | 38 €                         |
