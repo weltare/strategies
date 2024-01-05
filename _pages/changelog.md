@@ -19,11 +19,11 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | [Mise à jour des Liens](https://weltare.github.io/strategies/changelog/#liens-multiples-vers-tous-vos-profils-de-m%C3%A9dias-sociaux-et-liens-importants)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [38 €](https://py.pl/frMKn)                         |
 | [Évaluation ESG](https://weltare.github.io/strategies/changelog/#%C3%A9valuation-dimpact-durable--une-communication-durable-renforc%C3%A9e-pour-engager-vos-clients)           | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [2 739 €](https://py.pl/VkjieaAABv)                         |
 | [Paiements en Ligne](https://weltare.github.io/strategies/changelog/#paiements-en-ligne-rapides--la-r%C3%A9alisation-de-lefficacit%C3%A9)       | 20 %                         | 20 %                         |
-| NLP Engineering          | 100 €/ heure                     | 200 €/ heure |
-| Communication Externe    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 19 €                         |
-| Optimisation Pages Produits | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                   | 173 €                         |
-| Intégration Marketplace B2B | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                  | 96 €                         |
-| [Chatbot E-commerce](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#chatbot-e-commerce)       | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [3 449 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-89Y64015VK898734PMWMIBXA) |
+| [NLP Engineering](weltare.github.io/strategies/changelog/#nlp-engineering)          | 100 €/ heure                     | 200 €/ heure |
+| [Communication Externe](weltare.github.io/strategies/changelog/#optimisation-complète-de-votre-page-entreprise-linkedin-1)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 19 €                         |
+| [Optimisation Pages Produits](weltare.github.io/strategies/changelog/#pages-produits--le-pont-vers-une-expérience-client-enrichie) | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                   | 173 €                         |
+| [Intégration Marketplace B2B](weltare.github.io/strategies/changelog/#intégration-marketplace-b2b-weltare--le-pont-vers-une-communauté-b2b-plus-collaborative) | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                  | 96 €                         |
+| [Chatbot E-commerce](weltare.github.io/strategies/changelog/#chatbot-e-commerce)       | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [3 449 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-89Y64015VK898734PMWMIBXA) |
 
 <br>
 
