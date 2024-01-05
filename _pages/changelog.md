@@ -15,7 +15,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | Fonctionnalité           | Offre Premium                 | Offre sur Mesure               |
 |-------------------------|-------------------------------|--------------------------------:|
 | [Chatbot E-commerce](https://github.com/weltare/strategies/blob/master/_pages/changelog.md#chatbot-e-commerce)       | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [3 449 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-89Y64015VK898734PMWMIBXA) |
-| Optimisation LinkedIn    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 384 €                         |
+| Optimisation LinkedIn    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
 | Liens Réseaux Sociaux*    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 38 €                         |
 | Évaluation ESG           | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | 2 739 €                         |
 | Paiements en Ligne       | 20 %                         | 20 %                         |
@@ -121,7 +121,7 @@ Votre chatbot sur mesure comble le fossé entre les attentes des clients et nos 
 Adoptez notre chatbot performant et construisez une voie vers une communication externe efficace et fructueuse ! 🌟💬
 <br>
 
-## Optimisation Complète de Votre Page Entreprise LinkedIn
+## [`Optimisation Complète de Votre Page Entreprise LinkedIn`](https://py.pl/23lYLEpIdvO)
 Cette optimisation dépasse la simple mise à jour. Elle crée un pont entre un passé limité et un avenir prometteur. Offrant une transformation complète, elle stimule votre présence en ligne, attire de nouveaux prospects, renforce les relations professionnelles et propage votre message à un public plus large.
 
 Cette optimisation de votre Page LinkedIn Entreprise ouvre les portes d'une nouvelle ère. Offrez à votre entreprise une visibilité accrue, une autorité renforcée et une connectivité renouvelée sur la plateforme professionnelle la plus influente.
