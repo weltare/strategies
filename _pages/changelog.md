@@ -12,7 +12,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 <br>
 
-| Fonctionnalité           | [Offre Premium](https://weltare.github.io/strategies/changelog/#offre-premium)                 | Offre sur Mesure               |
+| Fonctionnalité           | [Offre Premium](https://weltare.github.io/strategies/changelog/#offre-premium)                 | [Offre sur Mesure](https://weltare.github.io/strategies/changelog/#offre-sur-mesure)               |
 |-------------------------|-------------------------------|--------------------------------:|
 | [Maintenance Chatbot](https://weltare.github.io/strategies/changelog/#chatbot-communication-externe)        | Inclus                     | [11 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
 | [Optimisation LinkedIn](https://weltare.github.io/strategies/changelog/#optimisation-compl%C3%A8te-de-votre-page-entreprise-linkedin-1)    | Inclus                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
