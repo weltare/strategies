@@ -12,9 +12,9 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 <br>
 
-| Fonctionnalité           | Offre Premium                 | Offre sur Mesure               |
+| Fonctionnalité           | [Offre Premium](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                 | Offre sur Mesure               |
 |-------------------------|-------------------------------|--------------------------------:|
-| [Maintenance Chatbot](https://weltare.github.io/strategies/changelog/#chatbot-communication-externe)        | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                     | [11 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
+| [Maintenance Chatbot](https://weltare.github.io/strategies/changelog/#chatbot-communication-externe)        | Inclus                     | [11 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
 | [Optimisation LinkedIn](https://weltare.github.io/strategies/changelog/#optimisation-compl%C3%A8te-de-votre-page-entreprise-linkedin-1)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
 | [Mise à jour des Liens](https://weltare.github.io/strategies/changelog/#liens-multiples-vers-tous-vos-profils-de-m%C3%A9dias-sociaux-et-liens-importants)    | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [38 €](https://py.pl/frMKn)                         |
 | [Évaluation ESG](https://weltare.github.io/strategies/changelog/#%C3%A9valuation-dimpact-durable--une-communication-durable-renforc%C3%A9e-pour-engager-vos-clients)           | [Inclus](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [2 739 €](https://py.pl/VkjieaAABv)                         |
