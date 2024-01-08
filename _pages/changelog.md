@@ -14,7 +14,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 | Fonctionnalité           | [Offre Premium](https://weltare.github.io/strategies/changelog/#offre-premium)                 | [Offre sur Mesure](https://weltare.github.io/strategies/changelog/#offre-sur-mesure)               |
 |-------------------------|-------------------------------|--------------------------------:|
-| [Chat dans la Bio](https://weltare.github.io/strategies/changelog/#chatbot-communication-externe)        | Inclus                     | [11 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
+| [Chat dans la Bio](https://weltare.github.io/strategies/changelog/#chatbot-communication-externe)        | Inclus                     | [Frais de configuration unique : 500 € + Abonnement mensuel : 11 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
 | [Optimisation LinkedIn](https://weltare.github.io/strategies/changelog/#optimisation-compl%C3%A8te-de-votre-page-entreprise-linkedin-1)    | Inclus                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
 | [Mise à jour des Liens](https://weltare.github.io/strategies/changelog/#liens-multiples-vers-tous-vos-profils-de-m%C3%A9dias-sociaux-et-liens-importants)    | Inclus                         | [38 €](https://py.pl/frMKn)                         |
 | [Évaluation ESG](https://weltare.github.io/strategies/changelog/#%C3%A9valuation-dimpact-durable--une-communication-durable-renforc%C3%A9e-pour-engager-vos-clients)           | Inclus                         | [2 739 €](https://py.pl/VkjieaAABv)                         |
