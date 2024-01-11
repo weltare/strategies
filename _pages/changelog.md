@@ -18,12 +18,13 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | [Optimisation Page Entreprise](https://weltare.github.io/strategies/changelog/#recommandation-professionnelle-linkedin--le-pont-vers-la-reconnaissance-et-lexpansion)    | Inclus                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
 | [Mise à jour des Liens](https://weltare.github.io/strategies/changelog/#liens-multiples-vers-tous-vos-profils-de-m%C3%A9dias-sociaux-et-liens-importants)    | Inclus                         | [38 €](https://py.pl/frMKn)                         |
 | [Évaluation ESG](https://weltare.github.io/strategies/changelog/#%C3%A9valuation-dimpact-durable--une-communication-durable-renforc%C3%A9e-pour-engager-vos-clients)           | Inclus                         | [2 739 €](https://py.pl/VkjieaAABv)                         |
-| [Transactions en Ligne](https://weltare.github.io/strategies/changelog/#paiements-en-ligne-rapides--la-r%C3%A9alisation-de-lefficacit%C3%A9)       | 20 %                         | 20 %                         |
-| [Consulting Data](weltare.github.io/strategies/changelog/#nlp-engineering)          | [800 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                     | [200 €/ heure](https://py.pl/3hppu8uqcvz) |
 | [Services sponsorisés](weltare.github.io/strategies/changelog/#votre-alli%C3%A9-pour-une-vente-en-ligne-fluide-et-simplifi%C3%A9e)    | Inclus                         | [A partir de 11 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                         |
 | [Optimisation Pages Produits](weltare.github.io/strategies/changelog/#pages-produits--le-pont-vers-une-exp%C3%A9rience-client-enrichie) | Inclus                   | [173 €](https://www.paypal.com/instantcommerce/checkout/undefined)                         |
-| [Services d'accélération](weltare.github.io/strategies/changelog/#intégration-marketplace-b2b-weltare--le-pont-vers-une-communauté-b2b-plus-collaborative) | 200 €/ service                  | Tarification Marketplace                         |
 | [Chatbot E-commerce](weltare.github.io/strategies/changelog/#chatbot-e-commerce)       | 384 €                         | [3 856 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-89Y64015VK898734PMWMIBXA) |
+| [Transactions en Ligne](https://weltare.github.io/strategies/changelog/#paiements-en-ligne-rapides--la-r%C3%A9alisation-de-lefficacit%C3%A9)       | 20 %                         | 20 %                         |
+| [Consulting Data](weltare.github.io/strategies/changelog/#nlp-engineering)          | [800 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                     | [200 €/ heure](https://py.pl/3hppu8uqcvz) |
+| [Services d'accélération](weltare.github.io/strategies/changelog/#intégration-marketplace-b2b-weltare--le-pont-vers-une-communauté-b2b-plus-collaborative) | 200 €/ service                  | Tarification Marketplace                         |
+
 
 <br>
 
