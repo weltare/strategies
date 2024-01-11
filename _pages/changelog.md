@@ -22,8 +22,8 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | [Services d'accélération](weltare.github.io/strategies/changelog/#intégration-marketplace-b2b-weltare--le-pont-vers-une-communauté-b2b-plus-collaborative) | Inclus                  | Tarifs de la place de marché                         |
 | [Services sponsorisés](weltare.github.io/strategies/changelog/#votre-alli%C3%A9-pour-une-vente-en-ligne-fluide-et-simplifi%C3%A9e)    | Inclus                         | [A partir de 11 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                         |
 | [Chatbot E-commerce](weltare.github.io/strategies/changelog/#chatbot-e-commerce)       | [384 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [3 856 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-89Y64015VK898734PMWMIBXA) |
-| [Transactions en Ligne](https://weltare.github.io/strategies/changelog/#paiements-en-ligne-rapides--la-r%C3%A9alisation-de-lefficacit%C3%A9)       | 20 %                         | 20 %                         |
 | [Consulting Data](weltare.github.io/strategies/changelog/#nlp-engineering)          | [800 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                     | [200 €/ heure](https://py.pl/3hppu8uqcvz) |
+| [Transactions en Ligne](https://weltare.github.io/strategies/changelog/#paiements-en-ligne-rapides--la-r%C3%A9alisation-de-lefficacit%C3%A9)       | 20 %                         | 20 %                         |
 
 
 <br>
