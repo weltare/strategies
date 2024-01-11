@@ -98,12 +98,6 @@ Nous contacter pour plus d'informations sur nos différentes offres.
 
 <br>
 
-## **NLP Engineering**
-Un plan sur mesure, une assistance prioritaire et un spécialiste dédié à la création de bots
-Nous contacter pour plus de personnalisation de nos différentes options.
-
-<br>
-
 ## Chatbot Communication externe
 Optimisez votre communication externe. Des réponses instantanées, une expérience client améliorée et une gestion fluide des requêtes. Offrez à votre entreprise un avantage concurrentiel dès aujourd'hui !
 
@@ -148,17 +142,9 @@ Notre solution centralise intelligemment vos multiples liens vers les profils de
 
 <br>
 
-## Recommandation Professionnelle LinkedIn : Le Pont vers la Reconnaissance et l'Expansion
-Cette valorisation crée un lien entre un passé sous-estimé et un avenir prometteur. Elle met en lumière votre expertise et renforce votre parcours. Les recommandations deviennent un atout pour votre excellence professionnelle et votre reconnaissance accrue.
-
-La valorisation professionnelle sur LinkedIn représente une opportunité inestimable pour propulser votre carrière vers de nouveaux sommets. C'est un outil essentiel pour élargir votre influence et asseoir votre crédibilité professionnelle.
-Nous contacter pour plus d'informations.
-
-#### Avant : Profils LinkedIn en Quête d'Optimisation
-Auparavant, vos profils LinkedIn manquaient de mise en valeur. Ils ne reflétaient pas pleinement votre expertise, limitant ainsi vos opportunités professionnelles. Une situation restreignant votre réseau et impactant votre crédibilité.
-
-#### Après : Renforcement de Votre Visibilité Professionnelle
-La valorisation professionnelle sur LinkedIn change la donne ! Vos profils bénéficient de recommandations authentiques, rehaussant votre crédibilité et attirant l'attention des clients. Cette valorisation élargit votre réseau et offre de nouvelles opportunités professionnelles.
+## **NLP Engineering**
+Un plan sur mesure, une assistance prioritaire et un spécialiste dédié à la création de bots
+Nous contacter pour plus de personnalisation de nos différentes options.
 
 <br>
 
@@ -172,6 +158,20 @@ Auparavant, la communication envers vos clients manquait de substance en termes 
 
 #### Après : Une Communication Stratégique Axée sur la Durabilité
 Notre solution innovante transforme la communication envers vos clients pour promouvoir l'engagement durable. Désormais, vos messages sont percutants, inspirants et orientés vers des initiatives durables. Cette communication réinventée attire l'attention, suscite l'intérêt et mobilise vers l'action durable.
+
+<br>
+
+## Recommandation Professionnelle LinkedIn : Le Pont vers la Reconnaissance et l'Expansion
+Cette valorisation crée un lien entre un passé sous-estimé et un avenir prometteur. Elle met en lumière votre expertise et renforce votre parcours. Les recommandations deviennent un atout pour votre excellence professionnelle et votre reconnaissance accrue.
+
+La valorisation professionnelle sur LinkedIn représente une opportunité inestimable pour propulser votre carrière vers de nouveaux sommets. C'est un outil essentiel pour élargir votre influence et asseoir votre crédibilité professionnelle.
+Nous contacter pour plus d'informations.
+
+#### Avant : Profils LinkedIn en Quête d'Optimisation
+Auparavant, vos profils LinkedIn manquaient de mise en valeur. Ils ne reflétaient pas pleinement votre expertise, limitant ainsi vos opportunités professionnelles. Une situation restreignant votre réseau et impactant votre crédibilité.
+
+#### Après : Renforcement de Votre Visibilité Professionnelle
+La valorisation professionnelle sur LinkedIn change la donne ! Vos profils bénéficient de recommandations authentiques, rehaussant votre crédibilité et attirant l'attention des clients. Cette valorisation élargit votre réseau et offre de nouvelles opportunités professionnelles.
 
 <br>
 
