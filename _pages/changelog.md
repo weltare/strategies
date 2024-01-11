@@ -142,12 +142,6 @@ Notre solution centralise intelligemment vos multiples liens vers les profils de
 
 <br>
 
-## **NLP Engineering**
-Un plan sur mesure, une assistance prioritaire et un spécialiste dédié à la création de bots
-Nous contacter pour plus de personnalisation de nos différentes options.
-
-<br>
-
 ## [`Évaluation d'Impact Durable : une Communication Durable Renforcée pour Engager Vos Clients`](https://py.pl/VkjieaAABv)
 Cette évolution crée un lien crucial entre une communication passée limitée et un avenir où l'engagement durable est central. Elle offre à votre entreprise la possibilité de forger un dialogue authentique et de renforcer sa réputation en tant qu'acteur engagé envers la durabilité. Cette communication devient un catalyseur pour des relations durables et fructueuses avec votre clientèle.
 
@@ -212,4 +206,10 @@ Auparavant, les paiements en ligne étaient entravés par des procédures lentes
 
 #### Après : Réalisation de Paiements Rapides et Sans Effort
 Notre solution révolutionnaire redéfinit la manière dont les paiements en ligne sont réalisés. Désormais, les utilisateurs bénéficient de procédures de paiement rapides et simplifiées. Cette amélioration considérable de la rapidité et de l'efficacité des transactions en ligne garantit une expérience client optimale et fluide.
+<br>
+
+## **NLP Engineering**
+Un plan sur mesure, une assistance prioritaire et un spécialiste dédié à la création de bots
+Nous contacter pour plus de personnalisation de nos différentes options.
+
 <br>
