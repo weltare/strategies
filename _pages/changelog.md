@@ -28,7 +28,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 <br>
 
-### Offre Premium
+### Abonnement
 # [`Je commande`](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-34A125616E760572GMV6MH4Y) **Un Chatbot E-commerce**
 Offrez une expérience d'achat inégalée grâce à notre chatbot expert !
 
@@ -91,7 +91,7 @@ Améliorez votre flux de trésorerie et maximisez l'efficacité de vos paiements
 ________
 <br>
 
-### `Offre sur mesure`
+### Offre sur mesure
 # **Création d'assistants conversationnels à la demande**
 Nous pouvons créer un chatbot personnalisé pour votre cas d'utilisation spécifique. Utilisez le tableau ci-dessous pour obtenir des estimations approximatives. Le prix final dépendra de la taille et de l'échelle de votre chatbot.
 Nous contacter pour plus d'informations sur nos différentes offres.
