@@ -20,71 +20,51 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | [Optimisation Pages Produits](weltare.github.io/strategies/changelog/#pages-produits--le-pont-vers-une-exp%C3%A9rience-client-enrichie) | Inclus                   | [173 €](https://www.paypal.com/instantcommerce/checkout/undefined)                         |
 | [Évaluation ESG](https://weltare.github.io/strategies/changelog/#%C3%A9valuation-dimpact-durable--une-communication-durable-renforc%C3%A9e-pour-engager-vos-clients)           | Inclus                         | [2 739 €](https://py.pl/VkjieaAABv)                         |
 | [Mise à jour des Liens](https://weltare.github.io/strategies/changelog/#liens-multiples-vers-tous-vos-profils-de-m%C3%A9dias-sociaux-et-liens-importants)    | Inclus                         | [38 €](https://py.pl/frMKn)                         |
-| [Services d'accélération](weltare.github.io/strategies/changelog/#intégration-marketplace-b2b-weltare--le-pont-vers-une-communauté-b2b-plus-collaborative) | Inclus                  | Tarifs de la place de marché                         |
+| [Services d'accélération d'entreprise](weltare.github.io/strategies/changelog/#intégration-marketplace-b2b-weltare--le-pont-vers-une-communauté-b2b-plus-collaborative) | Inclus                  | Tarifs de la place de marché                         |
 | [Services sponsorisés](weltare.github.io/strategies/changelog/#votre-alli%C3%A9-pour-une-vente-en-ligne-fluide-et-simplifi%C3%A9e)    | Inclus                         | [A partir de 11 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                         |
 | [Consulting Data](weltare.github.io/strategies/changelog/#nlp-engineering)          | [800 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                     | [200 €/ heure](https://py.pl/3hppu8uqcvz) |
-| [Paiements sécurisés en Ligne](https://weltare.github.io/strategies/changelog/#paiements-en-ligne-rapides--la-r%C3%A9alisation-de-lefficacit%C3%A9)       | 20 %                         | 20 %                         |
+| [Paiements sécurisés en Ligne](https://weltare.github.io/strategies/changelog/#paiements-en-ligne-rapides--la-r%C3%A9alisation-de-lefficacit%C3%A9)       | 10 %                         | 10 %                         |
 
 
 <br>
 
-### Abonnement
-# [`Je commande`](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-34A125616E760572GMV6MH4Y) **Un Chatbot E-commerce**
-Offrez une expérience d'achat inégalée grâce à notre chatbot expert !
+# Abonnement
+## [`Je commande`](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-34A125616E760572GMV6MH4Y) **Un Chatbot E-commerce**
 
-Notre chatbot e-commerce comprend une base de connaissances pré-rédigée couvrant des thématiques essentielles pour répondre aux besoins de vos clients, de la recherche de produits au suivi de commande et au service après-vente. Personnalisable et interconnectable avec votre CRM, il offre un soutien instantané et sans interruption à vos visiteurs, améliorant ainsi leur parcours d'achat. Simplifiez votre stratégie de conversion et démarquez-vous avec notre solution complète pour booster vos ventes !
+**Avant** : Les visiteurs quittent votre site sans effectuer d'achat en raison d'une assistance limitée. Les ventes potentielles sont perdues, et la frustration des clients augmente en l'absence d'une assistance immédiate. <br>
+**Notre solution** : Intégrez notre Chatbot E-commerce pour une assistance automatisée, économisant du temps et des ressources tout en augmentant vos ventes. <br>
+**Après** : L'intégration d'un chatbot dédié à votre site web est la clé pour améliorer l'expérience client. Avec notre service Chatbot E-commerce, bénéficiez d'une assistance automatisée qui guide vos visiteurs tout au long de leur parcours d'achat.
 
-#### La problématique
-Les entreprises cherchent des solutions pour 
-- répondre aux questions récurrentes des utilisateurs,
-- offrir un soutien continu tout au long du processus d'achat,
-- personnaliser l'expérience client et
-- améliorer la conversion sur leurs plateformes e-commerce.
+### Options inclues
+#### Configuration Avancée des Chatbots sur les Réseaux Sociaux
+**Avant** : Votre présence sur les médias sociaux manque d'interactivité et de personnalisation. Les clients potentiels ne se sentent pas engagés, diminuantla notoriété de votre marque. <br>
+**Notre solution** : Optez pour notre offre complète de Chatbots sur les Réseaux Sociaux, offrant une première configuration gratuite et un abonnement mensuel pour un engagement continu.<br>
+**Après** : Optimisez votre présence en ligne en intégrant des chatbots sur vos plateformes de médias sociaux. Notre offre exclusive comprend la première configuration gratuite et un abonnement mensuel, assurant une interaction continue avec votre audience.
 
-#### Notre solution
-- Gestion des questions récurrentes : Les utilisateurs ont souvent des questions fréquentes sur les articles, les promotions, le processus d'achat, le suivi de commande, la livraison, le service après-vente, etc. Le chatbot est conçu pour répondre à ces interrogations et soulager les équipes en fournissant des réponses rapides et précises.
+#### Optimisation de la Page Entreprise et des Pages Produits
+**Avant** : Votre classement dans les moteurs de recherche est insuffisant, réduisant la visibilité de votre entreprise. Les clients potentiels ne découvrent pas votre entreprise, entraînant une perte d'opportunités de vente.<br>
+**Notre solution** : Profitez de notre service d'optimisation de pages pour attirer l'attention avec des mots-clés pertinents et maximiser votre visibilité.<br>
+**Après** : Pour attirer et convertir des clients, une optimisation approfondie de votre page d'entreprise et de vos pages produits est essentielle. Notre équipe d'experts se charge de cette optimisation, mettant en avant des mots-clés pertinents pour améliorer votre classement dans les moteurs de recherche. 
 
-- Besoin d'accompagnement tout au long du parcours d'achat : Les clients cherchent un soutien continu, de la recherche de produit au service après-vente. Le chatbot offre un support instantané et disponible 24/7 sur le site e-commerce ou l'application mobile.
+#### Évaluation ESG (Environnement, Social, Gouvernance)
+**Avant** : La responsabilité sociale de votre entreprise n'est pas clairement communiquée, risquant de perdre la confiance des clients. Les consommateurs modernes recherchent des marques alignées sur des valeurs éthiques, créant un risque de déconnexion. <br>
+**Notre solution** : Obtenez une évaluation ESG approfondie pour afficher votre engagement envers des pratiques durables, renforçant la confiance des clients.<br>
+**Après** : La responsabilité sociale des entreprises est au cœur de notre approche. Recevez une évaluation approfondie de vos pratiques en matière d'environnement, de responsabilité sociale et de gouvernance. 
 
-- Personnalisation de l'expérience client : Les entreprises cherchent à offrir une expérience personnalisée à leurs clients. Le chatbot peut être interconnecté avec leurs logiciels internes, tels que le CRM, pour une personnalisation totale et un suivi des interactions précis.
+#### Mise à Jour des Liens et Services d'Accélération
+**Avant** : Votre site web manque de mises à jour régulières, entraînant une navigation inefficace. Les visiteurs sont frustrés par des informations obsolètes, affectant négativement l'expérience utilisateur. <br>
+**Notre solution** : Bénéficiez de notre service de mise à jour des liens et d'accélération pour une navigation fluide et une efficacité optimale, le tout gratuitement.<br>
+**Après** : Maintenez votre site web à jour et performant grâce à notre service de mise à jour des liens et nos services d'accélération. Assurez-vous que vos visiteurs accèdent rapidement aux informations cruciales. Cette prestation, incluse dans nos offres, garantit une navigation fluide et efficace sur votre plateforme en ligne. Le but de l'accélérateur est d'aider l'entreprise à atteindre un chiffre d'affaires et une taille critique.
 
-- Besoin de fluidifier le parcours d'achat et d'améliorer la conversion : Les entreprises souhaitent rendre le processus d'achat plus fluide et efficace pour leurs clients. Le chatbot, en fournissant des informations pertinentes et en guidant les clients, vise à améliorer la stratégie de conversion.
-<br>
+#### Services Sponsorisés et Consulting Data
+**Avant** : Votre visibilité en ligne est limitée, réduisant l'attraction de nouveaux clients. Les opportunités de croissance sont compromises en raison d'une audience restreinte. <br>
+**Notre solution** : Optez pour nos services sponsorisés pour une visibilité accrue, complétés par notre Consulting Data à 800 € par jour pour des analyses approfondies guidant vos décisions marketing.<br>
+**Après** : Augmentez votre visibilité en ligne avec nos services sponsorisés, plaçant votre entreprise devant une audience plus large. De plus, notre service de Consulting Data, disponible à 800 € par jour, offre des analyses approfondies pour orienter vos décisions marketing.
 
-### **Options inclues**
-Les options incluses dans notre offre sont conçues pour offrir une polyvalence maximale et répondre à un large éventail de besoins. Chaque composant a été soigneusement sélectionné pour garantir une expérience utilisateur optimale et une intégration sans heurts.
-
-#### **Optimisation Complète de Votre Page Entreprise LinkedIn**
-
-```markdown
-Optimisez au maximum votre présence sur LinkedIn avec notre service d'optimisation complète de la page entreprise. Liens vers les réseaux sociaux, délais de paiement réduits, pages produits LinkedIn, recommandations professionnelles, évaluations ESG pour un impact durable et rédaction de contenu B2B pour la marketplace WELTARE, tout est inclus.
-Profitez d'une optimisation 100% ciblée pour atteindre une audience plus large, renforcer votre crédibilité et accroître votre visibilité professionnelle. Des paiements en ligne rapides et sécurisés complètent ce service complet. N'attendez plus, maximisez votre potentiel sur LinkedIn dès aujourd'hui!
-Découvrez comment nous transformons votre présence en ligne en une vitrine percutante pour votre entreprise!
-```
-
-**Liens vers Réseaux Sociaux et Recommandations Professionnelles LinkedIn**
-
-```markdown
-Élargissez votre réseau professionnel et tirez parti de recommandations solides sur LinkedIn grâce à notre service de création de liens vers les réseaux sociaux et de recommandations professionnelles. Notre équipe experte vous aide à optimiser vos liens, à obtenir des paiements rapides et à construire une page produits LinkedIn solide et convaincante.
-Avec une évaluation ESG pour un impact durable et une rédaction de contenu B2B spécialement adaptée pour la marketplace WELTARE, notre service va au-delà des attentes habituelles. Maximisez votre crédibilité en ligne et votre présence professionnelle dès maintenant!
-Ouvrez la porte vers de nouvelles opportunités professionnelles avec nos solutions spécialisées!
-```
-
-**Évaluation ESG d'Impact Durable et Rédaction de Contenu Marketplace B2B WELTARE**
-
-```markdown
-Engagez-vous dans une entreprise durable et ciblée avec notre service d'évaluation ESG d'impact durable et de rédaction de contenu pour la marketplace B2B WELTARE. Optimisez votre présence, établissez votre crédibilité et mettez en avant votre engagement envers la durabilité.
-Nous offrons une évaluation complète de vos pratiques durables et une rédaction de contenu précis pour la marketplace B2B WELTARE. Ces services vous aideront à renforcer votre image de marque, à attirer une clientèle engagée et à faire prospérer votre entreprise dans un monde axé sur la durabilité.
-Investissez dans une démarche responsable et impactante pour votre entreprise dès aujourd'hui!
-```
-
-**Paiements en Ligne Rapides et Delay Payouts pour Votre Entreprise**
-
-```markdown
-Optimisez les délais de paiement et profitez de solutions de paiement en ligne rapides pour votre entreprise. Notre service de delay payouts et de paiements en ligne propose des solutions innovantes pour accélérer vos transactions.
-Avec des pages produits LinkedIn intégrées pour une visibilité accrue, vous pouvez gérer vos transactions en toute facilité. Notre équipe vous offre des solutions complètes et sécurisées, tout en renforçant votre présence en ligne.
-Améliorez votre flux de trésorerie et maximisez l'efficacité de vos paiements dès aujourd'hui!
-```
+#### Paiements Sécurisés en Ligne
+**Avant** : La confiance des clients est mise à l'épreuve lors des transactions en ligne. Les clients hésitent à acheter en ligne en raison de préoccupations liées à la sécurité des paiements. <br>
+**Notre solution** : Offrez des paiements sécurisés en ligne, ne représentant que 20 % du coût total, renforçant ainsi la confiance des clients tout en assurant la commodité des transactions électroniques.<br>
+**Après** : La confiance de vos clients est notre priorité. Offrez-leur des paiements sécurisés en ligne, ne représentant que 10 % du coût total. Renforcez ainsi la sécurité de chaque transaction, garantissant à vos clients une expérience d'achat en ligne sans souci.
 
 <br>
 
