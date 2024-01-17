@@ -4,6 +4,8 @@ title: Tarifs
 include_in_header: true
 ---
 
+![OIG xzZpD1 zgRjjL](https://github.com/weltare/strategies/assets/22855916/82c2c2e5-c0f5-414c-aba1-b767f046ab1a)
+
 # Tarifs
 Entre la complexité de la gestion en ligne et les besoins croissants des clients, réussir dans le monde de la vente en ligne est un défi majeur.
 WELTARE Strategies vous aide, vous, les entrepreneurs et les PME, à atteindre vos objectifs avec une solution tout-en-un. À l'aide de notre plateforme, vous pouvez transformer votre présence sur les réseaux sociaux en opportunités de vente, tout en offrant une assistance 24/7 grâce à notre chatbot intégré.
