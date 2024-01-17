@@ -4,9 +4,10 @@ title: Tarifs
 include_in_header: true
 ---
 
-![OIG xzZpD1 zgRjjL](https://github.com/weltare/strategies/assets/22855916/82c2c2e5-c0f5-414c-aba1-b767f046ab1a)
-
 # Tarifs
+
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/82c2c2e5-c0f5-414c-aba1-b767f046ab1a"></p>
+
 Entre la complexité de la gestion en ligne et les besoins croissants des clients, réussir dans le monde de la vente en ligne est un défi majeur.
 WELTARE Strategies vous aide, vous, les entrepreneurs et les PME, à atteindre vos objectifs avec une solution tout-en-un. À l'aide de notre plateforme, vous pouvez transformer votre présence sur les réseaux sociaux en opportunités de vente, tout en offrant une assistance 24/7 grâce à notre chatbot intégré.
 Avec notre expertise, il est possible de souscrire aux services optionnels qui vous permettront de construire l'offre sur mesure adaptée à votre problématique. Vous aussi, vous pouvez réussir avec nous.
@@ -30,7 +31,11 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 <br>
 
-# Abonnement : Votre allié pour une vente en ligne fluide et simplifiée
+
+# Abonnement : une vente en ligne fluide et simplifiée
+
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/67946e20-d480-4256-9917-8ea7af9510f5"></p>
+
 ## [`Je commande`](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-34A125616E760572GMV6MH4Y) **Un Chatbot E-commerce**
 
 **Avant** : Les visiteurs quittent votre site sans effectuer d'achat en raison d'une assistance limitée. Les ventes potentielles sont perdues, et la frustration des clients augmente en l'absence d'une assistance immédiate. <br>
