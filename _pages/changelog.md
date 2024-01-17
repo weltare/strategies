@@ -102,7 +102,9 @@ C'est ici qu'intervient notre solution innovante : le Chatbot sur-mesure a été
 
 Avec l'implémentation de notre Chatbot sur-mesure, l'interaction sur les réseaux sociaux atteint de nouveaux sommets. Les marques bénéficient d'une présence sociale amplifiée, avec des réponses automatisées, personnalisées et instantanées. Notre solution a redéfini l'interaction, offrant aux entreprises une plateforme dynamique pour engager leur audience de manière authentique.
 
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/e03577e0-1231-46a0-b8f6-164be3d62c59"></p>
 <br>
+
 
 ## [`Je commande`](https://py.pl/23lYLEpIdvO) Un Document de Présentation Inédit pour mon Entreprise
 
@@ -118,7 +120,9 @@ Afin de surmonter ce défi, ce document vise à transformer radicalement la mani
 
 Avec la mise en œuvre de ce document de présentation, Votre Entreprise voit son image corporative évoluer de manière significative. Les partenariats stratégiques se multiplient, les collaborations s'intensifient, et l'entreprise devient une figure incontournable dans son secteur. Ce document, élaboré avec soin, non seulement comble les lacunes de communication mais créé  également un impact durable sur la perception de l'entreprise.
 
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/fde8e63c-164a-40ee-95b6-0c489338f24e"></p>
 <br>
+
 
 ## [`Je commande`]() Un Document de Présentation des Pages Produits
 
@@ -135,6 +139,8 @@ C'est dans ce contexte que WELTARE Strategies introduit l'Optimisation des Pages
 Avec l'implémentation de l'Optimisation des Pages Produits par WELTARE Strategies, les acheteurs découvrent une ère nouvelle. Les pages produits sont organisées de manière intuitive, les informations essentielles sont mises en avant, et l'expérience d'achat devient un parcours fluide, réduisant les abandons de panier et offrant aux clients une expérience d'achat optimale.
 <br>
 
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/a7b09d13-d276-471d-94ad-be7504be6656"></p>
+
 ## [`Je commande`](https://py.pl/VkjieaAABv) Un document de Présentation des avantages concurrentiels de mon entreprise
 
 ### Avant : Analyse des Défis et Opportunités
@@ -145,6 +151,8 @@ Notre service sur mesure sert de passerelle vers une transformation significativ
 
 ### Après : Les Avantages Évidents et une Position Renforcée
 Après l'application de notre solution sur mesure, votre entreprise expérimente des avantages tangibles. Les processus optimisés accélèrent la réponse aux demandes du marché, réduisant les délais et améliorant la satisfaction client. Cette transformation consolide non seulement votre position concurrentielle, mais ouvre également de nouvelles opportunités de croissance en alignant toutes les parties prenantes vers vos nouveaux objectifs. Les avantages évidents de notre service se reflètent dans chaque aspect de votre activité, affirmant votre statut en tant qu'entreprise avant-gardiste dans votre secteur.
+
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/5196e57c-6c06-45c7-b087-bc4f41cbf17f"></p>
 
 <br>
 
@@ -163,6 +171,8 @@ C'est dans ce contexte que Votre Chatbot devient l'épicentre d'une nouvelle èr
 Avec l'implémentation de Votre Chatbot, l'assistance automatisée prend une nouvelle dimension. Les réponses sont personnalisées, les interactions deviennent plus fluides, et les visiteurs du site bénéficient d'une expérience client exceptionnelle, en tant que catalyseur de la satisfaction client, augmentant ainsi les taux de conversion.
 <br>
 
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/92a09a60-1f6d-4e18-a18c-b653683dc095"></p>
+
 ## [`Je commande`]() un service du programme d'accélération commerciale WELTARE Strategies
 
 ### Avant : Les Défis d'une Croissance Commerciale Limitée
@@ -176,6 +186,8 @@ C'est dans ce contexte que WELTARE Strategies dévoile son nouveau service d'acc
 ### Après : Une Croissance Décuplée, WELTARE Strategies Redéfinit les Standards
 
 Avec l'implémentation du service d'accélération, les entreprises découvrent une croissance décuplée. La compétitivité est renforcée, les marchés sont abordés avec agilité, et les stratégies de croissance obsolètes sont remplacées par des approches novatrices. Le "bridge" met en lumière comment WELTARE Strategies redéfinit les standards de l'accélération commerciale, positionnant ses clients en tête de la course à la croissance.
+
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/87410387-dd67-4155-935e-375268cf2c06"></p>
 
 <br>
 
@@ -195,6 +207,8 @@ Avec l'implémentation de notre Service de Connexion Bancaire, une nouvelle ère
 
 <br>
 
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/d1230258-ca9a-40ca-8e8c-93f4e0ca9a49"></p>
+
 ## [`Je commande`]() **une Prestation de Conseil en Sciences de Données**
 
 ### Avant : Les Données, une Énigme Non Résolue
@@ -208,4 +222,7 @@ C'est dans ce contexte que WELTARE Strategies dévoile sa prestation de conseil 
 ### Après : Des Données Déchiffrées, une Transformation Opérée
 
 Avec l'implémentation de notre Prestation de Conseil en Data Analytics, une transformation significative s'opère. Les données, autrefois dépourvues de sens, deviennent une source dynamique d'informations stratégiques. Les insights découlant de notre expertise en data analytics guident les prises de décision, propulsant nos clients vers une ère où l'analyse des données est le moteur du succès.
+
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/3c27e8d3-c033-47c2-b519-21424d9ac824"></p>
 <br>
+
