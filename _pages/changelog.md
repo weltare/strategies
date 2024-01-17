@@ -81,8 +81,10 @@ ________
 <br>
 
 # Offre sur mesure : **Création d'assistants conversationnels à la demande**
-Nous pouvons créer un chatbot personnalisé pour votre cas d'utilisation spécifique. Utilisez le tableau ci-dessous pour obtenir des estimations approximatives. Le prix final dépendra de la taille et de l'échelle de votre chatbot.
+Nous pouvons créer un chatbot personnalisé pour votre cas d'utilisation spécifique. Utilisez le tableau plus haut pour obtenir des estimations. Le prix final dépendra de la taille et de l'échelle de votre chatbot.
 Nous contacter pour plus d'informations sur nos différentes offres.
+
+<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/94b9be91-6e64-48ad-929d-ddfab68ec028"></p>
 
 <br>
 
