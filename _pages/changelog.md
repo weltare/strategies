@@ -33,7 +33,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 # Abonnement : une vente en ligne fluide et simplifiée
 
-[![Abonnement  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/ca8447e7-0bef-41b4-885a-9432398f05c3)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-34A125616E760572GMV6MH4Y]
+[![Abonnement  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/ca8447e7-0bef-41b4-885a-9432398f05c3)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-34A125616E760572GMV6MH4Y)
 
 **Avant** : Les visiteurs quittent votre site sans effectuer d'achat en raison d'une assistance limitée. Les ventes potentielles sont perdues, et la frustration des clients augmente en l'absence d'une assistance immédiate. <br>
 **Notre solution** : Intégrez notre Chatbot E-commerce pour une assistance automatisée, économisant du temps et des ressources tout en augmentant vos ventes. <br>
