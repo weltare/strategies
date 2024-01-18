@@ -6,9 +6,9 @@ include_in_header: true
 
 # Tarifs
 
-<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/170f9ff6-2f74-48db-a849-d536a331ef6b"></p>
+[<p align="center"><img src="https://github.com/weltare/strategies/assets/22855916/170f9ff6-2f74-48db-a849-d536a331ef6b"></p>](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)
 
-![tarifs](https://github.com/weltare/strategies/assets/22855916/170f9ff6-2f74-48db-a849-d536a331ef6b)
+[![tarifs](https://github.com/weltare/strategies/assets/22855916/170f9ff6-2f74-48db-a849-d536a331ef6b)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)
 
 
 Entre la complexité de la gestion en ligne et les besoins croissants des clients, réussir dans le monde de la vente en ligne est un défi majeur.
