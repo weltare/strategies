@@ -186,7 +186,7 @@ C'est dans ce contexte que WELTARE Strategies dévoile son nouveau service d'acc
 
 Avec l'implémentation du service d'accélération, les entreprises découvrent une croissance décuplée. La compétitivité est renforcée, les marchés sont abordés avec agilité, et les stratégies de croissance obsolètes sont remplacées par des approches novatrices. Le "bridge" met en lumière comment WELTARE Strategies redéfinit les standards de l'accélération commerciale, positionnant ses clients en tête de la course à la croissance.
 
-## [`Je m'inscris sur la liste d'attente`](https://mailchi.mp/8fae6c867229/se-financer) un service du Programme d'accélération en ligne WELTARE Strategies
+## [`Je m'inscris sur la liste d'attente pour être prévenu de la disponibilité du`](https://5j8k67tjxdz.typeform.com/to/Qb2lG6jA) Programme d'accélération en ligne WELTARE Strategies
 
 <br>
 
@@ -223,7 +223,7 @@ Avec l'implémentation de notre Prestation de Conseil en Data Analytics, une tra
 
 <br>
 
-![compte bancaire de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/e4eac02c-7656-4b2e-8461-f155a4982ba3)
+[![compte bancaire de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/e4eac02c-7656-4b2e-8461-f155a4982ba3)](https://5j8k67tjxdz.typeform.com/to/Qb2lG6jA)
 
 ### Avant : Les Complexités d'une Gestion Financière Traditionnelle
 
@@ -237,6 +237,6 @@ C'est dans ce contexte que notre Service de Connexion Bancaire fait son entrée 
 
 Avec l'implémentation de notre Service de Connexion Bancaire, une nouvelle ère s'ouvre pour la gestion financière. Les connexions bancaires deviennent fluides, les transactions sont automatisées, et la surveillance des comptes se fait en temps réel, plaçant notre Service de Connexion Bancaire en tant que facilitateur essentiel d'une gestion financière optimisée.
 
-## [`Je m'inscris sur la liste d'attente`](https://mailchi.mp/8fae6c867229/se-financer) pour connecter mon compte bancaire
+## [`Je m'inscris sur la liste d'attente`](https://5j8k67tjxdz.typeform.com/to/Qb2lG6jA) pour connecter mon compte bancaire
 
 <br>
