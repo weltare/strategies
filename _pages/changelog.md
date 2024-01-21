@@ -4,8 +4,6 @@ title: Tarifs
 include_in_header: true
 ---
 
-[![Tarifs  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/3e8ebdd3-8248-48b2-ae46-c39b0240e5ed)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)
-
 # Tarifs
 
 Entre la complexité de la gestion en ligne et les besoins croissants des clients, réussir dans le monde de la vente en ligne est un défi majeur.
