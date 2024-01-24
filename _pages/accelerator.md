@@ -1,6 +1,6 @@
 ## Préparation pour Décider de Lancer une Startup
 
-| Élément | Type de Document | Interlocuteur Professionnel |
+| Étape | Documents | Interlocuteurs |
 | --- | --- | --- |
 | Établir les Objectifs du Projet | Feuille d'objectifs, Modèle de plan de projet | Chefs de projet, Responsables d'équipe |
 | Analyser le Marché | Étude de marché | Analystes de marché, Responsables marketing |
@@ -15,7 +15,7 @@
 
 ## Préparation pour l'évaluation des idées de startup
 
-| Étape | Type de Document | Interlocuteur Professionnel |
+| Étape | Documents | Interlocuteurs |
 | --- | --- | --- |
 | Analyse du Marché | Étude de marché | Investisseurs, partenaires commerciaux |
 | Identification des Problèmes | Méthode 8D pour la résolution de problèmes | Équipe de projet, gestionnaires de produit |
@@ -30,7 +30,7 @@
 
 ## Préparation pour la Constitution de votre Équipe Fondatrice
 
-| Élément | Type de Document | Interlocuteur Professionnel |
+| Étape | Documents | Interlocuteurs |
 | --- | --- | --- |
 | Analyse des Besoins en Compétences | Questionnaire d'identification des besoins en formation | Responsable des Ressources Humaines |
 | Définition des Rôles et Responsabilités | Matrice RACI | Chef d'équipe, Manager |
@@ -45,7 +45,7 @@
 
 ## Planification d'un Produit Minimal Viable (MVP)
 
-| Étape | Type de Document | Interlocuteur Professionnel |
+| Étape | Documents | Interlocuteurs |
 | --- | --- | --- |
 | Définition de l'Objectif de l'MVP | Document de vision du produit | Chefs de produit, Équipe de développement |
 | Analyse des Besoins Utilisateurs | Document d'analyse des besoins | Chefs de produit, Analystes d'affaires |
@@ -60,7 +60,7 @@
 
 ## Lancement
 
-| Élément de Lancement | Type de Document | Interlocuteur Professionnel |
+| Étape | Documents | Interlocuteurs |
 | --- | --- | --- |
 | Définition des Objectifs de Lancement | Plan de lancement de produit | Chef de projet, Équipe de gestion de projet |
 | Stratégie de Communication | Plan de communication | Responsable de la communication, Équipe marketing |
@@ -75,9 +75,7 @@
 
 ## Croissance et Monétisation
 
-Voici un tableau qui résume les types de documents pertinents pour chaque élément, ainsi que le type d'interlocuteur professionnel auquel ils seraient le plus utiles :
-
-| Élément | Type de Document | Interlocuteur Professionnel |
+| Étape | Documents | Interlocuteurs |
 | --- | --- | --- |
 | Analyse de Marché et Public Cible | Étude de marché | Directeur marketing, Responsable de produit |
 | Optimisation des Produits/Services | Plan d'amélioration des processus, Documentation des processus¹¹ | Directeur de produit, Responsable de l'ingénierie |
@@ -91,7 +89,7 @@ Voici un tableau qui résume les types de documents pertinents pour chaque élé
 
 ## Levée de Fonds et Construction de l'Entreprise
 
-| Étape | Document Type | Interlocuteur Professionnel |
+| Étape | Documents | Interlocuteurs |
 | --- | --- | --- |
 | Définir la Stratégie de Levée de Fonds | Lettre d'intention, Executive Summary | Investisseurs, Conseillers financiers |
 | Préparer les Documents de Levée de Fonds | Executive Summary, Business Plan | Investisseurs, Conseillers financiers |
@@ -106,7 +104,7 @@ Voici un tableau qui résume les types de documents pertinents pour chaque élé
 
 ## Partages d'Expériences
 
-| Élément | Type de Document | Interlocuteur Professionnel |
+| Étape | Documents | Interlocuteurs |
 | --- | --- | --- |
 | Sélection des Intervenants | Grille d'évaluation pour le recrutement | Recruteurs, Responsables RH |
 | Préparation des Intervenants | Plan d'intervention, Guide pour organiser et animer une réunion | Formateurs, Responsables de formation |
