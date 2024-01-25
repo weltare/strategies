@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gestion de connaissance
+title: Connaissances
 include_in_header: true
 ---
 
