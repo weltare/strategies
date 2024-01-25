@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Connaissances
+title: Contenu
 include_in_header: true
 ---
 
