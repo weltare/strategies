@@ -1,4 +1,4 @@
-# Data Management : Le nouvel outil par défaut pour La gestion des connaissances et la documentation
+# Data Management : Notre outil pour La gestion des connaissances et la documentation
 
 Passez moins de temps à répondre aux questions grâce à un système de gestion des connaissances permettant aux équipes et aux organisations de toutes tailles de créer, d'organiser et de partager des informations.
 Difficile d'aller vite en utilisant un espace de travail mal organisé, inadapté : centralisez plutôt toutes vos connaissances avec WELTARE Strategies. 
