@@ -176,7 +176,13 @@ Il Facilite la navigation.
 Son moteur de recherche est performant.
 Il Peut segmenter les informations en différents projets, sujets, etc.
 Il Peut être intégré à votre logiciel existant.
-Il Propose s'intègre à vos réseaux sociaux.
+Il s'intègre à vos réseaux sociaux.
+
+
+## Utiliser les documents téléchargés pour les réponses génératives
+
+Vous pouvez charger vos propres documents pour permettre à votre copilote de générer des réponses avec l’IA générative.
+Le chatbot utilise l’IA générative pour répondre à la question de l’utilisateur et fournit une réponse dans un style conversationnel.
 
 ## Résumé
 La gestion des connaissances peut convenir à toutes vos parties prenantes. Quels que soient votre cible ou votre marché, si vous mettez en place un plan, les travailleurs de toutes les disciplines et de tous les services peuvent accéder à la base de connaissances de votre entreprise pour résoudre les problèmes et prévenir les problèmes futurs.
