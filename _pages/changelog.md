@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tarifs
+title: Fonctionnalités
 include_in_header: true
 ---
 
