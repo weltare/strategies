@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contenu
-include_in_header: true
+include_in_header: false
 ---
 
 # Notre outil pour La gestion des connaissances et la documentation
