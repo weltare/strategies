@@ -23,7 +23,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | Mise à jour des Liens    | Inclus                         | [38 €](https://py.pl/frMKn)                         |
 | Services d'accélération d'entreprise | Inclus                  | Tarifs de la place de marché                         |
 | Services sponsorisés    | Inclus                         | [A partir de 11 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                         |
-| Consulting Data          | [800 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                     | [200 €/ heure](https://py.pl/3hppu8uqcvz) |
+| Module NLP : 1ère configuration + Abonnement mensuel          | [249 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                     | [1500 € + 249 €/ mois](https://py.pl/3hppu8uqcvz) |
 | Paiements sécurisés en Ligne       | 15 %                         | 15 %                         |
 
 
