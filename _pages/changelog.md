@@ -15,8 +15,8 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 | Fonctionnalité           | [Offre Premium](https://weltare.github.io/strategies/changelog/#offre-premium)                 | [Offre sur Mesure](https://weltare.github.io/strategies/changelog/#offre-sur-mesure)               |
 |-------------------------|-------------------------------|--------------------------------:|
-| Chatbot E-commerce : 1ère configuration + Abonnement mensuel       | [384 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [1 213 € + ~~300~~ 11 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5DE87961K2769513CMWTXOMY) |
-| Chatbot réseaux sociaux : 1ère configuration + Abonnement mensuel        | Inclus                     | [500 € + ~~300~~ 11 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
+| Chatbot E-commerce : 1ère configuration + Abonnement mensuel       | [0 € + 384 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [1 213 € + 144 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5DE87961K2769513CMWTXOMY) |
+| Chatbot service client        | Inclus                     | [143 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
 | Optimisation Page Entreprise    | Inclus                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
 | Optimisation Pages Produits | Inclus                   | [173 €](https://www.paypal.com/instantcommerce/checkout/undefined)                         |
 | Présentation des avantages concurrentiels           | Inclus                         | [96 €](https://py.pl/VkjieaAABv)                         |
