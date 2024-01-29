@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fonctionnalités
+title: Services
 include_in_header: true
 ---
 
