@@ -22,7 +22,7 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | Présentation des avantages concurrentiels           | Inclus                         | [96 €](https://py.pl/VkjieaAABv)                         |
 | Mise à jour des Liens    | Inclus                         | [38 €](https://py.pl/frMKn)                         |
 | Services d'accélération d'entreprise | Inclus                  | Tarifs de la place de marché                         |
-| Services sponsorisés    | Inclus                         | [A partir de 11 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                         |
+| Services sponsorisés    | Inclus                         | [A partir de 14 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                         |
 | Module NLP : 1ère configuration + Abonnement mensuel          | [249 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                     | [1500 € + 249 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-6A595167CV919922BMWY5YZA) |
 | Paiements sécurisés en Ligne       | 15 %                         | 15 %                         |
 
