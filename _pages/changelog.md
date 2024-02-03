@@ -62,8 +62,8 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 
 #### Services Sponsorisés et Consulting Data
 **Avant** : Votre visibilité en ligne est limitée, réduisant l'attraction de nouveaux clients. Les opportunités de croissance sont compromises en raison d'une audience restreinte. <br>
-**Notre solution** : Optez pour nos services sponsorisés pour une visibilité accrue, complétés par notre Consulting Data à 800 € par jour pour des analyses approfondies guidant vos décisions marketing.<br>
-**Après** : Augmentez votre visibilité en ligne avec nos services sponsorisés, plaçant votre entreprise devant une audience plus large. De plus, notre service de Consulting Data, disponible à 800 € par jour, offre des analyses approfondies pour orienter vos décisions marketing.
+**Notre solution** : Optez pour nos services sponsorisés pour une visibilité accrue, complétés par notre Consulting Data à 750 € par jour pour des analyses approfondies guidant vos décisions marketing.<br>
+**Après** : Augmentez votre visibilité en ligne avec nos services sponsorisés, plaçant votre entreprise devant une audience plus large. De plus, notre service de Consulting Data offre des analyses approfondies pour orienter vos décisions marketing.
 
 #### Paiements Sécurisés en Ligne
 **Avant** : La confiance des clients est mise à l'épreuve lors des transactions en ligne. Les clients hésitent à acheter en ligne en raison de préoccupations liées à la sécurité des paiements. <br>
