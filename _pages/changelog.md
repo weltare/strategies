@@ -70,8 +70,6 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 **Notre solution** : Offrez des paiements sécurisés en ligne, ne représentant que 20 % du coût total, renforçant ainsi la confiance des clients tout en assurant la commodité des transactions électroniques.<br>
 **Après** : La confiance de vos clients est notre priorité. Offrez-leur des paiements sécurisés en ligne, ne représentant que 10 % du coût total. Renforcez ainsi la sécurité de chaque transaction, garantissant à vos clients une expérience d'achat en ligne sans souci.
 
-<br>
-
 ## [`Je commande`](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-34A125616E760572GMV6MH4Y) **Un Chatbot E-commerce**
 ________
 <br>
@@ -199,6 +197,8 @@ Avec les Services Sponsorisés, la publicité devient accessible à tous, offran
 
 ### Après : Augmentez votre visibilité en ligne avec nos services sponsorisés, plaçant votre entreprise devant une audience plus large. 
 Les avantages des Services Sponsorisés sont nombreux. Non seulement vous pouvez rediriger les acheteurs directement vers la page produit associée, mais vous contribuez également à des décisions d'achat éclairées en ne montrant des publicités que lorsque les services sont en réalisables et que vos ressources humaines sont disponibles. De plus, la gestion flexible des dépenses publicitaires vous permet de maîtriser vos coûts, optimisant ainsi votre budget et concentrant vos investissements sur des clients réellement engagés.
+
+## [`Je commande`](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I) **un lien sponsorisé**
 
 <br>
 
