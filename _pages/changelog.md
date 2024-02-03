@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Tarifs
 include_in_header: true
 ---
 
@@ -16,13 +16,13 @@ Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas 
 | Fonctionnalité           | [Offre Premium](https://weltare.github.io/strategies/changelog/#offre-premium)                 | [Offre sur Mesure](https://weltare.github.io/strategies/changelog/#offre-sur-mesure)               |
 |-------------------------|-------------------------------|--------------------------------:|
 | Chatbot E-commerce : 1ère configuration + Abonnement mensuel       | [0 € + 1159 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [691 € + 869 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5DE87961K2769513CMWTXOMY) |
-| Intelligence Artificielle pour Service client        | Inclus                     | [144 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
+| Intelligence Artificielle pour Service client        | Inclus                     | [790 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
 | Optimisation Page Entreprise    | Inclus                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
 | Optimisation Pages Produits | Inclus                   | [173 €](https://www.paypal.com/instantcommerce/checkout/undefined)                         |
 | Présentation des avantages concurrentiels           | Inclus                         | [96 €](https://py.pl/VkjieaAABv)                         |
 | Mise à jour des Liens    | Inclus                         | [38 €](https://py.pl/frMKn)                         |
 | Services d'accélération d'entreprise | Inclus                  | Tarifs de la place de marché                         |
-| Services sponsorisés    | Inclus                         | [79 €](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                         |
+| Services sponsorisés    | Inclus                         | [79 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                         |
 | Services Datascience         | [750 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                     | [1500 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-6A595167CV919922BMWY5YZA) |
 | Paiements sécurisés en Ligne       | 15 %                         | 15 %                         |
 
